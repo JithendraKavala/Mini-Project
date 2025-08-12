@@ -18,6 +18,21 @@ The **DNN** extracts complex, non-linear patterns from static data, while the **
 
 ---
 
+## 🖼️ System Architecture
+![System Architecture](images/system_architechture.png)
+
+---
+
+## 🖼️ DNN Model
+![DNN Diagram](images/dnn_model.png)
+
+---
+
+## 🖼️ LSTM Model
+![LSTM Diagram](images/lstm_model.png)
+
+---
+
 ## 🛠️ Tech Stack
 - **Programming Language**: Python 3.7+
 - **Frameworks/Libraries**:
@@ -58,13 +73,13 @@ The **DNN** extracts complex, non-linear patterns from static data, while the **
 
 
 Mini-Project/
-├── data/              # Historical datasets
-├── models/            # Saved DNN and LSTM models
-├── src/               # Data processing & model training scripts
-├── app.py             # Streamlit app
-├── requirements.txt   # Python dependencies
-└── README.md          # Project documentation
-
+├── data/ # Historical datasets
+├── models/ # Saved DNN and LSTM models
+├── src/ # Jupyter notebooks and scripts
+├── images/ # Diagrams and result images
+├── main.py # Streamlit app
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
 
 ---
 
