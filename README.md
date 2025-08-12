@@ -71,7 +71,7 @@ The **DNN** extracts complex, non-linear patterns from static data, while the **
 
 ## 📂 Project Structure
 
-
+```
 Mini-Project/
 ├── data/ # Historical datasets
 ├── models/ # Saved DNN and LSTM models
@@ -80,7 +80,7 @@ Mini-Project/
 ├── main.py # Streamlit app
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 ---
 
 ## ▶️ How to Run
