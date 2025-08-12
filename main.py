@@ -6,14 +6,14 @@ import joblib  # For loading the scalers
 
 # Load the trained model
 try:
-    model = tf.keras.models.load_model("dnn_lstm_model.keras", custom_objects={})
+    model = tf.keras.models.load_model("models/dnn_lstm_model.keras", custom_objects={})
 except Exception as e:
     st.error(f"Error loading model: {e}")
 
 # Load scalers
 try:
-    scaler_dnn = joblib.load("scaler_dnn.pkl")
-    scaler_lstm = joblib.load("scaler_lstm.pkl")
+    scaler_dnn = joblib.load("models/scaler_dnn.pkl")
+    scaler_lstm = joblib.load("models/scaler_lstm.pkl")
 except Exception as e:
     st.error(f"Error loading scalers: {e}")
 
