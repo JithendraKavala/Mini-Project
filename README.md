@@ -87,7 +87,7 @@ Mini-Project/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone git@github.com:JithendraKavala/Mini-Project.git
+git clone https://github.com/JithendraKavala/Mini-Project.git
 cd Mini-Project
 ````
 
