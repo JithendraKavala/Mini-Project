@@ -1,8 +1,4 @@
-Got it — I’ll make the `README.md` just for you, mention the **Streamlit GUI**, and include **how to run the project**.
 
-Here’s the updated version:
-
-```markdown
 # Short-term Load Forecasting in Smart Grid using DNN and LSTM
 
 ## 📌 Overview
@@ -59,7 +55,7 @@ The **DNN** extracts complex, non-linear patterns from static data, while the **
 ---
 
 ## 📂 Project Structure
-```
+
 
 Mini-Project/
 ├── data/              # Historical datasets
@@ -69,7 +65,6 @@ Mini-Project/
 ├── requirements.txt   # Python dependencies
 └── README.md          # Project documentation
 
-````
 
 ---
 
